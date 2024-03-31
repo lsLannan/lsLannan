@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liberty</h1>
 <h3 align="center">A passionate aspiring frontend developer based in Liverpool</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **SASS**
 
-- ⚡ Fun fact **I'm learning how to crochet and playing lots of moonlighter**
+- ⚡ Fun fact **I'm learning how to crochet and excited about playing Stardew 1.6!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
