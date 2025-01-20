@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React** and **SASS**
 
-- ⚡ Fun fact **I'm learning how to crochet and excited about playing Eastward!**
+- ⚡ Fun fact **I'm learning Japanese and excited about playing Stardew Valley 1.6!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
